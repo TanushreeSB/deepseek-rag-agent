@@ -13,6 +13,11 @@ DeepSeek is an AI-powered code companion designed to assist with coding, debuggi
 
 ![image](https://github.com/user-attachments/assets/06e1a0e8-113e-4a21-87c9-93c6c74fc936)
 
+![image](https://github.com/user-attachments/assets/88de15bf-d2bf-439e-9d3f-496d4605dccf)
+
+![image](https://github.com/user-attachments/assets/424bc3d3-e9a0-4120-b98d-cc43981e78ec)
+
+![image](https://github.com/user-attachments/assets/a1fcc350-75b3-41e4-9040-4d674e90e6ba)
 
 ## 🚀 Features
 
